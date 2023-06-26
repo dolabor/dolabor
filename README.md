@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi there 👋
+### 👩🏻‍💻 About Me:
+Welcome to my GitHub profile. My name is Evgeniia Chigzhit. I'm a beginner Front-end developer
 
-<!--
-**dolabor/dolabor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My primary goal is to grow as a Front-end developer by improving my skills in React and staying up-to-date with the latest industry trends. I aim to expand my knowledge through continuous learning
 
-Here are some ideas to get you started:
+### 💻 Tech Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="24">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="24" >
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="22">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="22">
+</p>
+
+### 🌍 Join me on this exciting journey
+
+Feel free to explore my repositories, check out my projects, and get in touch. I'm open to collaborations, feedback, and new opportunities. Let's connect and build something amazing! 🚀
