@@ -13,6 +13,10 @@ My primary goal is to grow as a Front-end developer by improving my skills in Re
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="22">
 </p>
 
+### ✨ My Stats:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dolabor&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 🌍 Join me on this exciting journey
 
 Feel free to explore my repositories, check out my projects, and get in touch. I'm open to collaborations, feedback, and new opportunities. Let's connect and build something amazing! 🚀
